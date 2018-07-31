@@ -27,5 +27,5 @@ A &#8745; B is the intersection of A with B
 
 A &#8746; B is the union of A and B
 
-Collection of sets we wish to union or intersect has the form {A<sub>&#945;<\sub>|&#945; &#8712; J}
+Collection of sets we wish to union or intersect has the form {A<sub>&#945;</sub>|&#945; &#8712; J}
 
